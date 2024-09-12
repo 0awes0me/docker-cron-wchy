@@ -1,1 +1,1 @@
-* * * * * cd /workspace && php artisan schedule:run >> /dev/null 2>&1
+* * * * * wget -q -O /dev/null "https://sea-lion-app-c6nlw.ondigitalocean.app/api/v3/cron" > /dev/null 2>&1	
